@@ -8,6 +8,7 @@
 ### [Инструкция по сборке](https://docs.geoscan.aero/ru/master/instructions/pioneer-max/const/max-const_main.html)
 ### [Инструкция по настройке пульта ДУ](https://docs.geoscan.aero/ru/master/instructions/pioneer-max/flight/rc_unit.html)
 ### [Инструкция по полёту](https://docs.geoscan.aero/ru/master/instructions/pioneer-max/flight/flight_preparation.html)
+### [Настройка симулятора](https://docs.geoscan.aero/ru/master/instructions/pioneer-max/flight/simulator.html)
 -----------------
 ### Настройка системы навигации "Локус"
 ### [Документация](https://pioneer-doc.readthedocs.io/ru/master/module/indoor_nav_lokus.html)
