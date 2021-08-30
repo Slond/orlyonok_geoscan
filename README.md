@@ -1,4 +1,4 @@
-# Сборник методических материалов для преподавателей ВДЦ "Орленок" от ГК "Геоскан"
+# Сборник методических материалов для преподавателей ВДЦ "Орленок" от <a href="geoscan.aero">"Геоскан"</a>
 <div align="center">
   
 <a href="https://www.geoscan.aero/ru/products/pioneer/max">![imgonline-com-ua-Resize-AOzJ2CWaDPrIMIPV](https://user-images.githubusercontent.com/37597315/131404720-10cce2aa-12ad-4ff6-8d09-3046036c1f43.jpg)
