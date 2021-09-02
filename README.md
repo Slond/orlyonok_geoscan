@@ -12,6 +12,7 @@
 ## Программирование
 ### [Основной репозиторий разработки](https://github.com/geoscan/geoscan_pioneer_max)
 ### [Документация по Геоскан Пионер](https://docs.geoscan.aero/ru/master/index.html#)
+### [Телеграм канал](https://t.me/GeoscanPioneer)
 ### [Описание API](https://github.com/geoscan/geoscan_pioneer_max/tree/master/api-docs)
 -----------------
 ## Сборка и пилотирование
