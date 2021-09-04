@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  # Сборник методических материалов для преподавателей <br> ВДЦ "Орленок" от <a href="geoscan.aero">"Геоскан"</a>
+  # Сборник методических материалов для преподавателей <br> ВДЦ "Орленок" от <a href="https://geoscan.aero">"Геоскан"</a>
   
 <a href="https://www.geoscan.aero/ru/products/pioneer/max">![imgonline-com-ua-Resize-AOzJ2CWaDPrIMIPV](https://user-images.githubusercontent.com/37597315/131404720-10cce2aa-12ad-4ff6-8d09-3046036c1f43.jpg)
 
