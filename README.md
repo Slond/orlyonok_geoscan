@@ -7,8 +7,6 @@
 
 ### [Геоскан Пионер Макс](https://www.geoscan.aero/ru/products/pioneer/max)
   
-# [Контроль знаний](https://forms.gle/JKPbs8FJ6BcAVT5o7)  
-
 </div>
 
 -----------------
